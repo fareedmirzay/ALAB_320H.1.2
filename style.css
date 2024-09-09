@@ -67,4 +67,6 @@ p::first-letter {
 
 footer p {
     color: lightgray;
+    text-align: center;
+    margin-top: 1rem; 
 }
